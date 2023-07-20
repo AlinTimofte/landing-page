@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+.header {
+    background: #1F2937;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 50px;
+}
+
+.header-logo {
+    font-size: 24px;
+    color: #F9FAF8;
+    display: flex;
+    align-items: center;
+}
+
+.header-logo img{
+    height: 50px;
+}
+
+.header-links {
+    display: flex;
+    align-items: center;
+}
+
+.header-links a{
+    font-size: 18px;
+    color: #F9FAF8;
+    text-decoration: none;
+    padding: 20px;
+}

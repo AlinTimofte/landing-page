@@ -103,3 +103,37 @@ button {
     border: #3882F6 solid 4px;
 }
 
+.quote {
+    background-color: #E5E7EB;
+    padding: 150px 20%;
+    text-align: center;
+}
+
+.quote .text {
+    font-size: 36px;
+    font-style: italic;
+}
+
+.quote .author {
+    margin-left: 70%;
+    font-size: 28px;
+    font-weight: bold;
+    margin-top: 40px;
+}
+
+.sign-up {
+    margin: 100px 200px;
+    background-color: #3882F6;
+    padding: 50px;
+    border-radius: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.sign-up .text {
+    color: #F9FAF8;
+}
+
+.sign-up button {
+    border: white solid 2px;
+}

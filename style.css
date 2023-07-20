@@ -80,7 +80,7 @@ button {
 .info-section > div{
     display: flex;
     justify-content: center;
-    gap: 50px;
+    gap: 80px;
     
 }
 
@@ -94,6 +94,7 @@ button {
 
 .info-card {
     width: 200px;
+    text-align: center;
 }
 
 .info-card img {
@@ -101,3 +102,4 @@ button {
     border-radius: 20px;
     border: #3882F6 solid 4px;
 }
+

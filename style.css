@@ -72,3 +72,32 @@ button {
 .hero-section img{
     height: 300px;
 }
+
+.info-section {
+    padding: 80px;
+}
+
+.info-section > div{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    
+}
+
+.info-section h1 {
+    color: #1F2937;
+    font-weight: 800;
+    font-size: 36px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.info-card {
+    width: 200px;
+}
+
+.info-card img {
+    width: 200px;
+    border-radius: 20px;
+    border: #3882F6 solid 4px;
+}
